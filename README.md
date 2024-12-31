@@ -25,22 +25,22 @@
 ---------------------------------------
 
 # 요구사항 정의서
-[요구사항정의서.pdf](https://github.com/JinHyeong25/proj-repo/blob/main/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.pdf)
+[요구사항정의서.pdf](https://github.com/whynotsw-camp/wh01-3rd-4team-DATA-/blob/main/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.pdf)
 
 ----------------------------------------
 
 # WBS
-[WBS.pdf](https://github.com/JinHyeong25/proj-repo/blob/main/WBS.pdf)
+[WBS.pdf](https://github.com/whynotsw-camp/wh01-3rd-4team-DATA-/blob/main/WBS.pdf)
 
 -----------------------------------------
 
 # 모델 정의서, 성능평가방식
-[모델정의서,성능평가방식.pdf](https://github.com/JinHyeong25/proj-repo/blob/main/%EB%AA%A8%EB%8D%B8%EC%A0%95%EC%9D%98%EC%84%9C%2C%EC%84%B1%EB%8A%A5%ED%8F%89%EA%B0%80%EB%B0%A9%EC%8B%9D.pdf)
+[모델정의서,성능평가방식.pdf](https://github.com/whynotsw-camp/wh01-3rd-4team-DATA-/blob/main/%EB%AA%A8%EB%8D%B8%EC%A0%95%EC%9D%98%EC%84%9C%2C%EC%84%B1%EB%8A%A5%ED%8F%89%EA%B0%80%EB%B0%A9%EC%8B%9D.pdf)
 
 -----------------------------------------
 
 # 최종 보고서(발표PPT)
-[추천 시스템 기반 영화 스트리밍 사이트(PICK&FLIX).pptx](https://github.com/JinHyeong25/proj-repo/blob/main/DATA%EB%A1%9C_%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B8%B0%EB%B0%98%20%EC%98%81%ED%99%94%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20%EC%82%AC%EC%9D%B4%ED%8A%B8(PICK%26FLIX)_1230.pptx)
+[추천 시스템 기반 영화 스트리밍 사이트(PICK&FLIX).pptx](https://github.com/whynotsw-camp/wh01-3rd-4team-DATA-/blob/main/DATA%EB%A1%9C_%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B8%B0%EB%B0%98%20%EC%98%81%ED%99%94%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20%EC%82%AC%EC%9D%B4%ED%8A%B8(PICK%26FLIX)_1230.pptx)
 
 -----------------------------------------
 
