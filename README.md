@@ -16,11 +16,56 @@
 - **최종 프로젝트 개발 및 테스트**: 2024년 11월 07일 - 12월 30일
 
 ## 3. 팀 구성
-- **곽현철** : 데이터 수집 및 분석, DB 모델링 및 기획
-- **김승훈** : 개발 기획 및 총괄 책임, 데이터분석
-- **서정임** : Front & Back 개발, DB 모델링 및 구축
-- **양현우** : Front & Back 개발, DB 모델링
-- **조진형** : AWS 인프라 구축, 데이터분석
+<table style="width:100%; text-align:center; table-layout:fixed;">
+  <colgroup>
+    <col style="width:20%;">
+    <col style="width:20%;">
+    <col style="width:20%;">
+    <col style="width:20%;">
+    <col style="width:20%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>곽현철</th>
+      <th>김승훈</th>
+      <th>서정임</th>
+      <th>양현우</th>
+      <th>조진형</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>데이터 수집 및 분석<br>DB 모델링 및 기획</td>
+      <td>개발 기획 및 총괄 책임<br>데이터분석</td>
+      <td>Front & Back 개발<br>DB 모델링 및 구축</td>
+      <td>Front & Back 개발<br>DB 모델링</td>
+      <td>AWS 인프라 구축<br>데이터분석</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
+
+---------------------------------------
+# 기술스택
+</div>
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
+    <br>
+    <div style="margin: 10px 0; text-align: left; font-weight: 700; font-size:20px; color: #282d33;">
+        <p><strong>주 개발 언어</strong><br>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="border-radius: 5px;"></p>
+        <p><strong>데이터베이스</strong><br>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="border-radius: 5px;"></p>
+        <p><strong>웹 구현</strong><br>
+            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" style="border-radius: 5px;">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" style="border-radius: 5px;">
+            <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" style="border-radius: 5px;">
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" style="border-radius: 5px;"></p>
+        <p><strong>클라우드 환경</strong><br>
+            <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" style="border-radius: 5px;"></p>
+    </div>
+</div>
 
 ---------------------------------------
 
