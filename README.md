@@ -63,10 +63,17 @@
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" style="border-radius: 5px;">
             <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" style="border-radius: 5px;">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" style="border-radius: 5px;"></p>
+        <p><strong>데이터 크롤링</strong><br>
+            <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" style="border-radius: 5px;">
+            <img src="https://img.shields.io/badge/BeautifulSoup4-FFD700?style=for-the-badge&logo=BeautifulSoup4&logoColor=black" style="border-radius: 5px;"></p>
+        <p><strong>데이터 분석</strong><br>
+            <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" style="border-radius: 5px;"></p>
+            
         <p><strong>클라우드 환경</strong><br>
             <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" style="border-radius: 5px;"></p>
     </div>
 </div>
+
 
 <br><br>
 ## 5. 📑 Documents
